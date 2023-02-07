@@ -1,2 +1,1 @@
-# DSC-478
-Programming machine learning
+# DSC-478 Programming machine learning
